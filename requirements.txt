@@ -1,0 +1,15 @@
+pyttsx3
+requests
+colorama
+cryptography
+pybluez
+googlesearch-python
+ipapi
+playsound
+deep_translator
+tk-tools
+tkinterweb
+ttkbootstrap
+PIL
+PyQt5
+pyqt5-tools
